@@ -77,7 +77,3 @@ git branch -d (branchname)
 将任何分支合并到当前分支中去：
 git merge
 ```
-
-$$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$$
-
- 
